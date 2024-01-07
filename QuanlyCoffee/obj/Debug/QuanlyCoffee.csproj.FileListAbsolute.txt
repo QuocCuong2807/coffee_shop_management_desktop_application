@@ -1,0 +1,14 @@
+E:\QuanlyCoffee\QuanlyCoffee\bin\Debug\QuanlyCoffee.exe.config
+E:\QuanlyCoffee\QuanlyCoffee\bin\Debug\QuanlyCoffee.exe
+E:\QuanlyCoffee\QuanlyCoffee\bin\Debug\QuanlyCoffee.pdb
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csproj.AssemblyReference.cache
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csproj.SuggestedBindingRedirects.cache
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.loginForm.resources
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.Properties.Resources.resources
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csproj.GenerateResource.cache
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.csproj.CoreCompileInputs.cache
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.exe
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.pdb
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.MainForm.resources
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.StaffProfileForm.resources
+E:\QuanlyCoffee\QuanlyCoffee\obj\Debug\QuanlyCoffee.Management.resources
